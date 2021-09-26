@@ -1,0 +1,9 @@
+com\dora\mybatis\plugin\KdllDaMapperPlugin.class
+com\dora\mybatis\plugin\api\RenameFullyQualifiedTable.class
+com\dora\mybatis\runtime\RenameImpl.class
+com\dora\mybatis\plugin\velocity\VelocityTools.class
+com\dora\mybatis\plugin\KdllDaDataMapperPlugin.class
+com\dora\mybatis\plugin\velocity\VelocityUtils.class
+com\dora\mybatis\plugin\Velocity4SrcPlugin.class
+com\dora\mybatis\plugin\comment\DBCommentGenerator.class
+com\dora\mybatis\plugin\EntityCommentPlugin.class
